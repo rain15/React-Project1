@@ -8,4 +8,5 @@ Thumbs.db
 
 #React specific
 node_modules/*
+dist
 
